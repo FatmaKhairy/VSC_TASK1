@@ -1,0 +1,91 @@
+
+github accounts
+
+project : with team https://github.com/FatmaKhairy/VSC_TASK1
+personal project: https://github.com/FatmaKhairy/cms
+
+
+log project 
+commit 421c60cfca4fddb7d19a2a6f58c6ba3a85750f7d (HEAD -> master, origin/master)
+Merge: 0914df3 737ff41
+Author: fa <fatmakhairy66@gmail.com>
+Date:   Wed Dec 29 12:25:11 2021 +0200
+
+    final
+
+commit 737ff41541487b885b9805d2dc8dda0241f6e8d6
+Merge: 6cd0bc0 e819579
+Author: Manar-Ali-Elsayed <manar.ali.914@gmail.com>
+Date:   Wed Dec 29 12:20:27 2021 +0200
+
+    edit with manar
+
+commit 6cd0bc042447dc67bea768b1ceb91aa294772af5
+Merge: cdef42f 27625e4
+Author: Manar-Ali-Elsayed <manar.ali.914@gmail.com>
+Date:   Wed Dec 29 12:17:58 2021 +0200
+
+    edit by manar
+
+commit 0914df38b911dd85b953c55d438667f463c5b61a
+Author: fa <fatmakhairy66@gmail.com>
+:...skipping...
+commit 421c60cfca4fddb7d19a2a6f58c6ba3a85750f7d (HEAD -> master, origin/master)
+Merge: 0914df3 737ff41
+Author: fa <fatmakhairy66@gmail.com>
+Date:   Wed Dec 29 12:25:11 2021 +0200
+
+    final
+
+commit 737ff41541487b885b9805d2dc8dda0241f6e8d6
+Merge: 6cd0bc0 e819579
+Author: Manar-Ali-Elsayed <manar.ali.914@gmail.com>
+Date:   Wed Dec 29 12:20:27 2021 +0200
+
+    edit with manar
+
+commit 6cd0bc042447dc67bea768b1ceb91aa294772af5
+Merge: cdef42f 27625e4
+Author: Manar-Ali-Elsayed <manar.ali.914@gmail.com>
+Date:   Wed Dec 29 12:17:58 2021 +0200
+
+    edit by manar
+
+commit 0914df38b911dd85b953c55d438667f463c5b61a
+Author: fa <fatmakhairy66@gmail.com>
+Date:   Wed Dec 29 12:15:55 2021 +0200
+
+    connect html&cssfatma
+
+commit e8195791c3a7e2c128ae1f46be9da3a69f57d3f3
+Merge: 7aedb9c fded6bb
+Author: somaya <asomaya579@gmail.com>
+Date:   Wed Dec 29 12:11:03 2021 +0200
+
+    Merge branch 'master' of https://github.com/FatmaKhairy/VSC_TASK1
+
+commit fded6bb42b215fa4e5acb80d996a95cd15e4ab78
+Merge: 3a69027 27625e4
+Author: fa <fatmakhairy66@gmail.com>
+Date:   Wed Dec 29 12:10:20 2021 +0200
+:
+
+//////////////////////////
+log personal
+commit bd26adc8ec4af42533486b2332dfa88ab21c4cf3 (HEAD -> master, origin/master)
+Author: fa <fatmakhairy66@gmail.com>
+Date:   Wed Dec 29 12:31:54 2021 +0200
+
+    first add
+
+commit 24d65cbd39c77151249de0dc1b7c788e89ee3677
+Author: fa <fatmakhairy66@gmail.com>
+Date:   Sat Dec 25 13:34:30 2021 +0200
+
+    create first file
+///////////////////////////////
+
+commands 
+git add .
+git commit -m "sms"
+get push 
